@@ -42,7 +42,7 @@ class Date extends Base {
 
 		$url = apply_filters(
 			'kirki_package_url_control_date',
-			trailingslashit( Kirki::$url ) . 'packages/kirki-framework/control-date/src'
+			trailingslashit( Kirki::$url ) . 'vendor/kirki-framework/control-date/src'
 		);
 
 		// Enqueue the script.
