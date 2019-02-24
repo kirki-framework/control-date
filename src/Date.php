@@ -50,7 +50,6 @@ class Date extends Base {
 			'kirki-control-date',
 			"$url/assets/scripts/control.js",
 			[
-				'kirki-script',
 				'jquery',
 				'customize-base',
 				'kirki-dynamic-control',
