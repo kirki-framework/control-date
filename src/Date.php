@@ -54,6 +54,7 @@ class Date extends Base {
 				'jquery',
 				'customize-base',
 				'kirki-dynamic-control',
+				'jquery-ui-datepicker',
 			],
 			KIRKI_VERSION,
 			false
