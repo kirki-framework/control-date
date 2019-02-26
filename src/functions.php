@@ -14,3 +14,5 @@ add_action(
         class_alias( 'Kirki\Control\Date', 'Kirki_Control_Date' );
     }
 );
+
+class_alias( 'Kirki\Field\Date', 'Kirki_Field_Date' );
